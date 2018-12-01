@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 01 Dec 2018 17:32:29 at http://supriyamakude.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://supriyamakude.com/ -O1 "C:\My Web Sites\Portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:33:31	Error: 	"Method Not Allowed" (405) at link supriyamakude.com/xmlrpc.php (from supriyamakude.com/)
+17:33:49	Warning: 	Moved Permanently for supriyamakude.com/?p=1
+17:33:49	Warning: 	File has moved from supriyamakude.com/?p=1 to http://supriyamakude.com/hello-world/
+17:33:49	Error: 	"Not Found" (404) at link supriyamakude.com/wp-content/themes/resumiwp/css/grabbing.png (from supriyamakude.com/wp-content/themes/resumiwp/css/owl.carousel.min.css?ver=4.9.8)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 32 seconds : 100 links scanned, 96 files written (2031383 bytes overall) [1388533 bytes received at 15092 bytes/sec], 913030 bytes transferred using HTTP compression in 65 files, ratio 24%, 1.0 requests per connection
+(2 errors, 2 warnings, 0 messages)
